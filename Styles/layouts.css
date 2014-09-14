@@ -1,0 +1,40 @@
+	header {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	}
+	body {
+					min-height: 100%;
+					padding: 5%;
+					height: 100%;
+					margin: 0 auto -4em;
+					position: absolute;
+					
+	
+					}
+	#content {
+	height: auto !important;
+	height: 100%;
+	width: 70%;
+	float: left;
+	}
+	img.displayed{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+.inner {
+	padding: 0 10px;
+	}
+	
+	#advertising {
+	float: right;
+	width: 30%;
+	text-align: center;
+	}
+.footer, .push {
+	clear: both;
+	height: 4em;
+	width: 100%;
+	}
